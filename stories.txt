@@ -1,0 +1,21 @@
+1-
+Title: Usuario poderá ter a sua conta e vincular ao jogo
+
+Critérios de aceitação(CA): Um Usuario tera um login(esse login será único) e uma senha 
+e se registrará com o seu "nick" do video game
+
+Definition of Done(DoD):
+
+2-  
+Title: Um Usuário poderá seguir outros usuários
+
+Critérios de aceitação(CA): Um usuario com login e senha poderá seguir
+
+Definition of Done(DoD):
+
+3-
+Title:
+
+Critérios de aceitação(CA):
+
+Definition of Done(DoD):
