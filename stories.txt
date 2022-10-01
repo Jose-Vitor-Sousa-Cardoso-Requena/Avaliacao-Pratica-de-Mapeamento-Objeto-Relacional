@@ -1,21 +1,27 @@
 1-
-Title: Um jogador poderá ter a sua conta no sistema e vincular ao jogo 'valorant'
-  Como um jogador eu quero poder ter o meu login no sistema, vinculado com a minha conta no valorant para que eu consiga ter uma melhor experiencia quando eu for chamado para times.
+Title: Como jogador eu quero vincular a minha conta no valorant.
   
-Critérios de aceitação(CA): Dado que Um Usuario terá um login e uma senha, quando for completar o      registro ele terá que vincular com sua conta valorant, então o sistema terá uma maior segurança em  relação a contas fake e agilidade a convidar jogadores
-
-Definition of Done(DoD): Sei quando a implementação for segura para os jogadores e cumprir com os requisitos do critério de aceitação
-
-2-  
-Title: Um Usuário poderá seguir outros usuários
-
-Critérios de aceitação(CA): Um usuario com login e senha poderá seguir
+Critérios de aceitação(CA): Dado que Um Usuario terá um login e uma senha, quando for completar o registro ele terá que vincular com sua conta valorant, então o sistema terá uma maior segurança em relação a contas fake e agilidade a convidar jogadores
 
 Definition of Done(DoD):
 
-3-
-Title:
+2-  
+Title: Como jogador eu quero formar times com outros jogadores
+  
+Critérios de aceitação(CA): Dado que o jogador estará seguindo outro usuário o mesmo poderá ser convidado para o time(dado que o nome dos times vão ser únicos), então incentivando o cenário competitivo atual tornando mais acessivel para os jogadores
 
-Critérios de aceitação(CA):
+Definition of Done(DoD): 
+
+3-
+Title: Os times formados poderão se inscrever e formar campeonatos dentro da plataforma
+
+Critérios de aceitação(CA): Dado que um número par de times tenham se inscrito em um campeonato ou sido convidados o campeonato ocorrerá, quando o número de times for ímpar o time com o melhor 'seed' recebe bye indo direto para proxima fase.
+
+Definition of Done(DoD):
+
+4-
+Title: Como jogador eu quero poder colocar informações adicionais no perfil
+
+Critérios de aceitação(CA): Um usuário terá que preencher as seguintes informações: nome, idade e posição efetiva no jogo. E terá opção de preencher uma biografia e horário disponivel para jogar
 
 Definition of Done(DoD):
