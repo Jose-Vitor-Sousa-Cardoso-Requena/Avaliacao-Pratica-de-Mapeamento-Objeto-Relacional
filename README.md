@@ -23,4 +23,4 @@
 
 
 # diagrama de classes UML
-![Main](https://user-images.githubusercontent.com/100696361/193474534-e79abb00-265d-4fca-bd81-df7c77e0b083.jpg)
+![Main](https://user-images.githubusercontent.com/100696361/193474661-57b97670-ff06-4793-bde2-068ab02d6671.jpg)
