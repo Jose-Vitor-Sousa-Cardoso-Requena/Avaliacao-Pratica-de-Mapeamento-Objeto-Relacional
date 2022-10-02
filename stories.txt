@@ -22,6 +22,6 @@ Definition of Done(DoD):
 4-
 Title: Como jogador eu quero poder colocar informações adicionais no perfil
 
-Critérios de aceitação(CA): Um usuário terá que preencher as seguintes informações: nome, idade e posição efetiva no jogo. E terá opção de preencher uma biografia e horário disponivel para jogar
+Critérios de aceitação(CA): Um usuário terá que preencher as seguintes informações: nome, idade e posição efetiva no jogo. E terá opção de preencher uma biografia.
 
 Definition of Done(DoD):
