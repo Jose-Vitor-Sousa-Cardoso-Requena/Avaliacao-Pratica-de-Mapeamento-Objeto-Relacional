@@ -1,4 +1,5 @@
 CREATE DATABASE 'jose3info';
+use jose3info;
 
 CREATE TABLE 'campeonato' (
   'id_campeonato' int NOT NULL AUTO_INCREMENT,
