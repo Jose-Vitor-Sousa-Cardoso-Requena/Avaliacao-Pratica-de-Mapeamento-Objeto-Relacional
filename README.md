@@ -21,12 +21,4 @@
 ![ERDDiagram1](https://user-images.githubusercontent.com/100696361/193472507-0dfeafd1-c699-4d4f-b55e-1df820915e0f.jpg)
 
 
-iii) Desenvolva o diagrama de classes UML correspondente ao modelo relacional;  
-
-iv) Desenvolva o código SQL para criação das tabelas e os devidos relacionamentos do modelo; e  
-
-v) Desenvolva o código Python com base no framework SQLALchemy para o mapeamento objeto-relacional.
-
-O projeto deve ser entregue em um repositório público do github na sua conta pessoal. O projeto pode ter o título que desejar. O repositório deve conter um arquivo markdown denominado README.md descrevendo os itens i a iii e os códigos .py no diretório denominado orm dentro do repositório.
-
-Desenvolva os diagramas utilizando a ferramenta StarUML (MER e Classes) e exporte as imagens e as insira no seu arquivo README.md. 
+# diagrama de classes UML
