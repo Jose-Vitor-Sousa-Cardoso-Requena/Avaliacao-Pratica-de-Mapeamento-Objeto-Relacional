@@ -18,7 +18,8 @@
  Apresentarei um manual passo a passo de como utilizar o sistema, além de videos utilizando o sistema para servir de demonstração do sistema.
 
 # modelo relacional do projeto.
-![ERDDiagram1](https://user-images.githubusercontent.com/100696361/193472507-0dfeafd1-c699-4d4f-b55e-1df820915e0f.jpg)
+![ERDDiagram1](https://user-images.githubusercontent.com/100696361/193473479-f3c7f4a8-3088-4333-aca5-74e9b4816de5.jpg)
+
 
 
 # diagrama de classes UML
